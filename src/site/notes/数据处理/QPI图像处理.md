@@ -1,5 +1,5 @@
 ---
-{"title":"QPI","dg-publish":true,"dg-home":true,"permalink":"//qpi/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"QPI图像处理","dg-publish":true,"permalink":"//qpi/","dgPassFrontmatter":true}
 ---
 
 STS的数据经常会有要测[QPI](../概念/凝聚态相关概念.md#QPI：)的时候，对QPI的处理也有很多不同的操作方法，可以用不同的软件进行不同的操作。
