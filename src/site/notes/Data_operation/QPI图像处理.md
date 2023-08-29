@@ -5,7 +5,7 @@
 STS的数据经常会有要测[QPI](../Concept/凝聚态相关概念.md#QPI：)的时候，对QPI的处理也有很多不同的操作方法，可以用不同的软件进行不同的操作。
 ## GWY处理QPI
 1. 打开形貌图
-2. 对形貌图进行[滤波 1D/2D FFT Filtering](GWY.md#滤波%201D/2D%20FFT%20Filtering)，把晶格滤出来。
+2. 对形貌图进行[[Data_operation/GWY#滤波 1D/2D FFT Filtering\|滤波]]，把晶格滤出来。
 3. 用滤出的晶格进行[Affine仿射变化](GWY.md#Affine仿射变化)，先看看数据强度够不够算法自动识别，如果不行就进行一次[插值Scale](GWY.md#插值Scale)。
 4. [Merge](GWY.md#Merge)进去一组smx数据。
 5. 首先进行[切割数据 Crop data](GWY.md#切割数据%20Crop%20data)，去掉坏点，并保持正方形
