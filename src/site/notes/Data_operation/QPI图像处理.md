@@ -20,6 +20,9 @@ STS的数据经常会有要测[QPI](../Concept/凝聚态相关概念.md#QPI：)�
 14. 复制一次图片，然后进行一次垂直[[Data_operation/GWY#对称/旋转\|对称]]，然后将两张图进行一次(d1+d2)/2的[[Data_operation/GWY#数学运算 Arithmetic operation on data\|数学运算]]，得到垂直对称图，然后继续复制一次，进行一次水平对称，再进行一次运算，最终得到对称的QPI图。
 15. 之后再把得到的QPI图进行一次切割，把外面的一些点去掉，最后再调整一下[[Data_operation/GWY#”颜色“ Stretch color range to part of data\|color bar]]，就得到了一张漂亮的QPI图。
 完整视频：
+<div style="width: 500px;height: 380px;margin: 0px auto;">
+        <iframe width="500px" height="380px" src="http://player.youku.com/embed/XMzcwNTY3NTM2MA" frameborder=0 allowfullscreen></iframe>
+    </div>
 ![](../素材/VID_20230815_160538.mp4)
 另外得到的QPI图还可以再进行额外操作来得到能带图。
 1. 在想看的切面方向拉线[[Data_operation/GWY#切片 Extract profiles along arbitrary lines\|切片]]，得到的数据进行txt的保存。
