@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"File菜单相关","permalink":"/File菜单相关/","dgShowLocalGraph":true}
+{"dg-permalink":"File菜单相关","dg-publish":true,"dg-show-local-graph":true,"permalink":"/File菜单相关/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 ## save 
