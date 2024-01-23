@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Igor pro 处理数据","permalink":"/Igor pro 处理数据/","dgShowLocalGraph":true}
+{"dg-permalink":"Igor pro 处理数据","dg-publish":true,"dg-show-local-graph":true,"permalink":"/Igor pro 处理数据/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 ![](/img/user/lab/素材/20230522154403.png)
