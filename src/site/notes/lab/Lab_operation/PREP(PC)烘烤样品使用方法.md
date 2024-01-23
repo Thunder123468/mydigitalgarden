@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"PREP(PC)烘烤样品使用方法","permalink":"/PREP(PC)烘烤样品使用方法/","dgShowLocalGraph":true}
+{"dg-permalink":"PREP(PC)烘烤样品使用方法","dg-publish":true,"dg-show-local-graph":true,"permalink":"/PREP(PC)烘烤样品使用方法/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 ![300](/img/user/lab/素材/IMG_20230407_102444.jpg)
