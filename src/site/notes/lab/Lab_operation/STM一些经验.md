@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"STM一些经验","permalink":"/STM一些经验/","dgShowLocalGraph":true}
+{"dg-permalink":"STM一些经验","dg-publish":true,"dg-show-local-graph":true,"permalink":"/STM一些经验/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 ## 2023.8.23
