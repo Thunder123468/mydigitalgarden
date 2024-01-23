@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Motor Control窗口","permalink":"/Motor Control窗口/","dgShowLocalGraph":true}
+{"dg-permalink":"Motor Control窗口","dg-publish":true,"dg-show-local-graph":true,"permalink":"/Motor Control窗口/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 ![](/img/user/lab/素材/20230815155832.png)
