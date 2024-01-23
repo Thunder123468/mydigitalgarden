@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"Nanonis V5e Mimea操作方法","permalink":"/Nanonis V5e Mimea操作方法/","dgShowLocalGraph":true}
+{"dg-permalink":"Nanonis V5e Mimea操作方法","dg-publish":true,"dg-show-local-graph":true,"permalink":"/Nanonis V5e Mimea操作方法/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 当电脑启动之后，点击**Nanonis V5e Mimea**就可以打开操作面板了，然后会出现一个序列号窗口，直接点击进入下一步。
