@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"GWY","permalink":"/GWY/","dgShowLocalGraph":true}
+{"dg-permalink":"GWY","dg-publish":true,"dg-show-local-graph":true,"permalink":"/GWY/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 ## 主菜单
