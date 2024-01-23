@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"QPI图像处理","permalink":"/QPI图像处理/","dgShowLocalGraph":true}
+{"dg-permalink":"QPI图像处理","dg-show-local-graph":true,"dg-publish":true,"permalink":"/QPI图像处理/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 STS的数据经常会有要测[QPI](../Concept/凝聚态相关概念.md#QPI：)的时候，对QPI的处理也有很多不同的操作方法，可以用不同的软件进行不同的操作。
