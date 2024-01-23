@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"LoadLock Chamber","permalink":"/LoadLock Chamber/","dgShowLocalGraph":true}
+{"dg-permalink":"LoadLock Chamber","dg-publish":true,"dg-show-local-graph":true,"permalink":"/LoadLock Chamber/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 ## LLC介绍
