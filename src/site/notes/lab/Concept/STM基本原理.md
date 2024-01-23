@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"STM基本原理","permalink":"/STM基本原理/","dgShowLocalGraph":true}
+{"dg-permalink":"STM基本原理","dg-publish":true,"dg-show-local-graph":true,"permalink":"/STM基本原理/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 ## STM相关知识（STM的结构和原理、针尖电子态、局域态密度的表征STS、拓扑绝缘体、QPI技术、具有自旋分辨的SP-STM、非弹性电子隧穿谱）
