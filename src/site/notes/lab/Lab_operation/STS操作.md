@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"STS操作","permalink":"/STS操作/","dgShowLocalGraph":true}
+{"dg-permalink":"STS操作","dg-publish":true,"dg-show-local-graph":true,"permalink":"/STS操作/","dgShowLocalGraph":true,"dgPassFrontmatter":true}
 ---
 
 ### linecut
